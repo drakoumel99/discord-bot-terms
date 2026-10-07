@@ -1,8 +1,8 @@
 # Privacy Policy for [Όνομα του Bot]
 
-**Last Updated:** [Ημερομηνία, π.χ. October 2026]
+**Last Updated:** [03 October 2026]
 
-This Privacy Policy explains what data **[Όνομα του Bot]** collects and how it is used.
+This Privacy Policy explains what data **[Zenith ]** collects and how it is used.
 
 1. **Data We Collect:**
    - **Discord IDs:** User IDs, Server (Guild) IDs, and Channel IDs required for functionality (e.g., saving settings, user balances, or custom configurations).
